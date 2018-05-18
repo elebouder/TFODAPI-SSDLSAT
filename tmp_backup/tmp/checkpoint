@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/elebouder/repos/models/research/object_detection/tmp/model.ckpt-21470"
+all_model_checkpoint_paths: "/home/elebouder/repos/models/research/object_detection/tmp/model.ckpt-16708"
+all_model_checkpoint_paths: "/home/elebouder/repos/models/research/object_detection/tmp/model.ckpt-17890"
+all_model_checkpoint_paths: "/home/elebouder/repos/models/research/object_detection/tmp/model.ckpt-19089"
+all_model_checkpoint_paths: "/home/elebouder/repos/models/research/object_detection/tmp/model.ckpt-20284"
+all_model_checkpoint_paths: "/home/elebouder/repos/models/research/object_detection/tmp/model.ckpt-21470"
